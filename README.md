@@ -13,7 +13,7 @@ This is a **frontend clone** of the official [Sidcup Family Golf](https://www.si
 
 👉 [View the Live Site]()  
 
-
+https://t4nix.github.io/sidcup-clone/
 ---
 
 ## 🛠️ Tech Stack
@@ -39,5 +39,5 @@ This is a **frontend clone** of the official [Sidcup Family Golf](https://www.si
 ## 📁 How to Run Locally
 
 ```bash
-git clone 
+git clone https://t4nix.github.io/sidcup-clone/
 open index.html
