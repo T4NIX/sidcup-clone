@@ -39,6 +39,5 @@ This is a **frontend clone** of the official [Sidcup Family Golf](https://www.si
 ## 📁 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/sidcup-golf-clone.git
-cd sidcup-golf-clone
+git clone 
 open index.html
