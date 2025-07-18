@@ -395,7 +395,7 @@ transition: all ease 0.5s;
 
 
 
-
+/* === Mobile Responsive Fixes === */
 @media (max-width: 768px) {
   #page1 h1 {
     font-size: 60px;
@@ -476,4 +476,3 @@ transition: all ease 0.5s;
     margin: 10px 0;
   }
 }
-
